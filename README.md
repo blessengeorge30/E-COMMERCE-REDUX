@@ -12,7 +12,7 @@ This is a React Native E-Commerce mobile application developed as part of my Ass
 ![App Screenshot](./overview/overview-2.png)
 ![App Screenshot](./overview/overview-3.png)
 ![App Screenshot](./overview/overview-4.png)
-![App Screenshot](./overview/overview-5.png)
+
 
 
 
