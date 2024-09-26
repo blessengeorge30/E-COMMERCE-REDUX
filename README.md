@@ -1,5 +1,5 @@
 
-# E- Commerce Application 🚀 💻
+# E- Commerce Application   💻
 
 This is a React Native E-Commerce mobile application developed as part of my Assignment at ALT-D Technologies, Infopark. The app includes essential features for browsing and purchasing products online, with a focus on smooth user experience and modern design principles.
 
