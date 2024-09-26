@@ -13,7 +13,7 @@ This is a React Native E-Commerce mobile application developed as part of my Ass
 ![App Screenshot](./overview/overview-3.png)
 ![App Screenshot](./overview/overview-4.png)
 
-feel free to see the working of the project : https://drive.google.com/file/d/1bw2aTm1tO_DpNXVdRt_FezgyVoaZFX4T/view?usp=drive_link
+
 
 
 ## Features
@@ -25,4 +25,6 @@ feel free to see the working of the project : https://drive.google.com/file/d/1b
 - Cart Page: Review and manage items in the cart before proceeding to checkout.
 
 
+
+feel free to see the working of the project : https://drive.google.com/file/d/1bw2aTm1tO_DpNXVdRt_FezgyVoaZFX4T/view?usp=drive_link
 
