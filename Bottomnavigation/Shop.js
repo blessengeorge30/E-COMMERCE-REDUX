@@ -179,7 +179,7 @@ const Profile = () => {
                             </View>
                             <View style={{ flexDirection: 'row', marginLeft: 70, marginTop: -25 }}>
                                 <Image source={require('../assets/Exclude.png')} style={{ height: 16, width: 14, alignSelf: 'center', marginLeft: 30, marginTop: -15 }} />
-                                <Text style={{ color: 'black', fontSize: 22, marginBottom: 12, alignSelf: "center", marginLeft: 10, fontWeight: "500" }}>Thrissur, Kerala.</Text>
+                                <Text style={{ color: 'black', fontSize: 22, marginBottom: 12, alignSelf: "center", marginLeft: 10, fontWeight: "500" }}>Thrissur, Kerala</Text>
                             </View>
 
                             <View>
@@ -220,7 +220,7 @@ const Profile = () => {
                             <View style={{ flexDirection: "row" }}>
                                 <Text style={{ color: 'black', fontSize: 22, marginBottom: 12, marginVertical: 15, marginHorizontal: 30, marginRight: 25, fontWeight: "500" }}>Limited time Offers</Text>
                                 <TouchableOpacity style={{ flexDirection: "row" }} >
-                                    <Text style={styles.buttontext1}>  see all</Text>
+                                    <Text style={styles.buttontext1}>  see all </Text>
                                     <Image source={require('../assets/rightarrow.png')} style={{ height: 10, width: 10, marginHorizontal: 10, marginTop: 22, borderRadius: 15 }} />
                                 </TouchableOpacity>
                             </View>

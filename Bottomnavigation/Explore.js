@@ -77,7 +77,7 @@ const Homescreen = () => {
 
                             <View style={{ marginTop: -30, flexDirection: 'row' }}>
 
-                                <Text style={{ color: 'black', fontSize: 20, marginBottom: 12, alignSelf: "center", marginLeft: 120, fontWeight: "500" }}>Find Products</Text>
+                                <Text style={{ color: 'black', fontSize: 20, marginBottom: 12, alignSelf: "center", marginLeft: 120, fontWeight: "500" }}>Find Products.</Text>
 
 
                             </View>

@@ -57,7 +57,7 @@ const App = () => {
           component={Router}
           options={{ headerShown: false }}
         /> 
-         
+           
       
             <Stack.Screen
           name="ProductDetails"

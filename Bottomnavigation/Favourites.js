@@ -16,7 +16,7 @@ const FavoritesScreen = () => {
     return (
         <SafeAreaView style={styles.container}>
             <View style={styles.header}>
-                <Text style={styles.headerText}>Favorites</Text>
+                <Text style={styles.headerText}>Favorites.</Text>
             </View>
             <View style={styles.scrollContainer}>
                 <ScrollView vertical={true} contentContainerStyle={styles.scrollContent}>
