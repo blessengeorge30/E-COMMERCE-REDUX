@@ -16,7 +16,7 @@ export const PRODUCT_ITEMS =[
         image:JSON.stringify(require('../assets/iwatch.png')),
         image1:require('../assets/add.png'),
         name: 'Apple iwatch Series 3.',
-        pricetag: "126GB Storage ",
+        pricetag: "126GB Storage",
         price: 799,
         
         productdetails:"The Apple Watch is a sleek, feature-packed smartwatch that keeps you connected, tracks your fitness, and monitors your health, all from your wrist. With customizable faces, apps, and seamless integration with your iPhone"
