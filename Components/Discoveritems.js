@@ -4,7 +4,7 @@ export const PRODUCT_ITEMS =[
         id:1,
         image:JSON.stringify(require('../assets/airpods.png')),
         image1:require('../assets/add.png'),
-        name: 'Apple Airpods ',
+        name: 'Apple Airpods',
         pricetag: "100hr playback ",
         price: 599,
         
