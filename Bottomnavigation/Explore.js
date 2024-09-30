@@ -316,7 +316,7 @@ const styles = StyleSheet.create({
         marginTop: 5,
         marginLeft: 12,
         marginVertical: 15,
-        // backgroundColor: 'rgba(255,255,255,0.5)'
+        backgroundColor: 'rgba(255,255,255,0.5)'
     },
 
 
