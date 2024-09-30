@@ -12,7 +12,7 @@ export const PRODUCT_PRODUCTS =[
     },
     {
         image:require('../assets/headphones.png'),
-        name: 'Headphones -  studio quality    ',
+        name: 'Headphones -  studio quality  ',
        
       
     },
