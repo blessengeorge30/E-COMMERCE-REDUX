@@ -15,7 +15,7 @@ export const PRODUCT_ITEMS =[
         id:2,
         image:JSON.stringify(require('../assets/iwatch.png')),
         image1:require('../assets/add.png'),
-        name: 'Apple iwatch Series 3 ',
+        name: 'Apple iwatch Series 3.',
         pricetag: "126GB Storage",
         price: 799,
         
