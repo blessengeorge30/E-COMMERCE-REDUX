@@ -5,7 +5,7 @@ export const PRODUCT_ITEMS =[
         image:JSON.stringify(require('../assets/airpods.png')),
         image1:require('../assets/add.png'),
         name: 'Apple Airpods',
-        pricetag: "100hr playback ",
+        pricetag: "100hr playback",
         price: 599,
         
         productdetails:"AirPods are wireless Bluetooth earbuds designed by Apple, offering seamless connectivity, high-quality audio, and intuitive features like touch controls and voice activation for a hands-free experience."
