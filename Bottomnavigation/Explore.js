@@ -98,7 +98,7 @@ const Homescreen = () => {
                                     data={PRODUCT_PRODUCTS}
 
                                     renderItem={({ item }) => renderitem1(item)}
-                                    numColumns={2} // Display 2 items per row
+                                    numColumns={2} 
                                 />
                             </View>
                         </View>
