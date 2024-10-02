@@ -77,7 +77,7 @@ const cartScreen = () => {
                     >
 
                         <View style={styles.header}>
-                            <Text style={styles.headerText}> MY CART.</Text>
+                            <Text style={styles.headerText}> MY CART</Text>
                         </View>
                         <View style={styles.scrollContainer}>
                             <ScrollView vertical={true} contentContainerStyle={styles.scrollContent}>
